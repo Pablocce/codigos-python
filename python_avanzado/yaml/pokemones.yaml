@@ -1,0 +1,7 @@
+pokemones:
+  - nombre: Skwovet
+    tipo: Normal
+    region: Paldea
+  - nombre: Greedent
+    tipo: Normal
+    region: Paldea
