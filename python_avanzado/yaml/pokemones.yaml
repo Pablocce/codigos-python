@@ -5,3 +5,9 @@ pokemones:
   - nombre: Greedent
     tipo: Normal
     region: Paldea
+  - nombre: Grookey
+    tipo: Planta
+    region: Galar
+  - nombre: Zamazenta
+    tipo: Lucha
+    region: Galar
