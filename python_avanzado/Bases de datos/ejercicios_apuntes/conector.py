@@ -1,7 +1,5 @@
 import psycopg2
-
 conn=None
-
 try:
     #creamos conexión
     conn = psycopg2.connect(
